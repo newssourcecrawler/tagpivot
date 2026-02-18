@@ -1,0 +1,16 @@
+{
+  "history": { "message": "Geçmiş" },
+  "purge": { "message": "Sıfırla" },
+  "counterview": { "message": "Karşı Görünüm" },
+  "find_placeholder": { "message": "Bu sayfada ara (v0)..." },
+  "hotkey_hint": { "message": "Kısayol: Ctrl+Shift+F ile aç/kapat. (Ctrl+F yakalama daha sonra.)" },
+  "purge_confirm": { "message": "TagPivot yerel verilerini sıfırlamak istiyor musun? Bu işlem geri alınamaz." },
+  "not_enough_data": { "message": "Henüz yeterli yerel veri yok." },
+  "loading": { "message": "Yükleniyor…" },
+  "history_unavailable": { "message": "Geçmiş kullanılamıyor." },
+  "no_local_events_yet": { "message": "Henüz yerel etkinlik yok." },
+  "not_enough_structure_yet": { "message": "Henüz yeterli yapı yok." },
+  "history_no_tags": { "message": "Etiket yok" },
+  "counterpoint": { "message": "Karşıt Nokta" },
+  "bridges": { "message": "Bağlantılar" }
+}

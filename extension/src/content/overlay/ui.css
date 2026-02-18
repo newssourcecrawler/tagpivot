@@ -1,0 +1,159 @@
+#nsc-tp-root {
+  position: fixed;
+  top: 14px;
+  right: 14px;
+  width: 420px;
+  max-width: calc(100vw - 28px);
+  z-index: 2147483647;
+  font-family: ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial;
+}
+
+#nsc-tp-card {
+  background: rgba(20, 20, 22, 0.92);
+  color: #fff;
+  border: 1px solid rgba(255,255,255,0.10);
+  border-radius: 14px;
+  box-shadow: 0 14px 40px rgba(0,0,0,0.35);
+  overflow: hidden;
+}
+
+#nsc-tp-head {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 10px 12px;
+  border-bottom: 1px solid rgba(255,255,255,0.08);
+}
+
+#nsc-tp-title {
+  font-size: 13px;
+  letter-spacing: 0.2px;
+  opacity: 0.95;
+}
+
+#nsc-tp-close {
+  background: transparent;
+  border: none;
+  color: rgba(255,255,255,0.75);
+  font-size: 16px;
+  cursor: pointer;
+}
+
+#nsc-tp-body {
+  padding: 12px;
+}
+
+#nsc-tp-row {
+  display: flex;
+  gap: 10px;
+  align-items: center;
+}
+
+#nsc-tp-input {
+  flex: 1;
+  padding: 10px 10px;
+  border-radius: 10px;
+  border: 1px solid rgba(255,255,255,0.12);
+  background: rgba(255,255,255,0.06);
+  color: #fff;
+  outline: none;
+}
+
+#nsc-tp-btn {
+  padding: 10px 10px;
+  border-radius: 10px;
+  border: 1px solid rgba(255,255,255,0.12);
+  background: rgba(255,255,255,0.10);
+  color: #fff;
+  cursor: pointer;
+}
+
+#nsc-tp-hint {
+  margin-top: 10px;
+  font-size: 12px;
+  color: rgba(255,255,255,0.72);
+  line-height: 1.35;
+}
+
+#nsc-tp-tags {
+  margin-top: 12px;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+}
+
+.nsc-tp-tag {
+  font-size: 12px;
+  padding: 6px 8px;
+  border-radius: 999px;
+  border: 1px solid rgba(255,255,255,0.12);
+  background: rgba(255,255,255,0.06);
+  color: rgba(255,255,255,0.88);
+}
+
+#nsc-tp-head button {
+  padding: 6px 8px;
+  border-radius: 10px;
+  border: 1px solid rgba(255,255,255,0.12);
+  background: rgba(255,255,255,0.06);
+  color: rgba(255,255,255,0.85);
+  font-size: 12px;
+  cursor: pointer;
+}
+
+#nsc-tp-head button:hover {
+  background: rgba(255,255,255,0.10);
+}
+
+.nsc-tp-section-title {
+  margin-top: 12px;
+  font-size: 12px;
+  color: rgba(255,255,255,0.75);
+  letter-spacing: 0.2px;
+}
+
+.nsc-tp-section-row {
+  margin-top: 8px;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+}
+
+button.nsc-tp-tag {
+  appearance: none;
+  cursor: pointer;
+}
+
+/* CounterView emphasis: no color picking, just stronger neutral contrast */
+.nsc-tp-cv-peaks {
+  border-color: rgba(255,255,255,0.28) !important;
+  box-shadow: 0 0 0 1px rgba(255,255,255,0.10), 0 6px 18px rgba(0,0,0,0.35);
+}
+
+.nsc-tp-cv-flat {
+  opacity: 0.82;
+}
+.css
+/* RTL support (Arabic, etc.) — opt-in via dir="rtl" on the root element */
+#nsc-tp-root[dir="rtl"] {
+  direction: rtl;
+}
+
+#nsc-tp-root[dir="rtl"] #nsc-tp-body,
+#nsc-tp-root[dir="rtl"] #nsc-tp-title,
+#nsc-tp-root[dir="rtl"] #nsc-tp-hint,
+#nsc-tp-root[dir="rtl"] .nsc-tp-section-title {
+  text-align: right;
+}
+
+#nsc-tp-root[dir="rtl"] #nsc-tp-row {
+  flex-direction: row-reverse;
+}
+
+#nsc-tp-root[dir="rtl"] #nsc-tp-input {
+  text-align: right;
+}
+
+#nsc-tp-root[dir="rtl"] #nsc-tp-head {
+  flex-direction: row-reverse;
+}

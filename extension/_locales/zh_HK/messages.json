@@ -1,0 +1,17 @@
+{
+  "history": { "message": "紀錄" },
+  "purge": { "message": "清除" },
+  "counterview": { "message": "反向視角" },
+  "find_placeholder": { "message": "頁內搜尋 (v0)..." },
+  "hotkey_hint": { "message": "快捷鍵：Ctrl+Shift+F 切換。（之後再攔截 Ctrl+F。）" },
+  "purge_confirm": { "message": "要清除 TagPivot 本機資料嗎？此操作無法復原。" },
+  "not_enough_data": { "message": "本機資料未足夠。" }
+  ,
+  "loading": { "message": "載入中…" },
+  "history_unavailable": { "message": "紀錄不可用。" },
+  "no_local_events_yet": { "message": "暫無本機事件。" },
+  "not_enough_structure_yet": { "message": "未有足夠結構。" },
+  "history_no_tags": { "message": "沒有標籤" },
+  "counterpoint": { "message": "對位" },
+  "bridges": { "message": "橋接" }
+}

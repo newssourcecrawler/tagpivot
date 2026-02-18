@@ -1,0 +1,18 @@
+
+
+{
+  "history": { "message": "Cronologia" },
+  "purge": { "message": "Reimposta" },
+  "counterview": { "message": "Vista opposta" },
+  "find_placeholder": { "message": "Cerca in questa pagina (v0)..." },
+  "hotkey_hint": { "message": "Scorciatoia: Ctrl+Shift+F per mostrare/nascondere. (Intercettare Ctrl+F in seguito.)" },
+  "purge_confirm": { "message": "Reimpostare i dati locali di TagPivot? Questa azione non può essere annullata." },
+  "not_enough_data": { "message": "Dati locali non ancora sufficienti." },
+  "loading": { "message": "Caricamento…" },
+  "history_unavailable": { "message": "Cronologia non disponibile." },
+  "no_local_events_yet": { "message": "Nessun evento locale al momento." },
+  "not_enough_structure_yet": { "message": "Struttura non ancora sufficiente." },
+  "history_no_tags": { "message": "Nessun tag" },
+  "counterpoint": { "message": "Contropunto" },
+  "bridges": { "message": "Collegamenti" }
+}

@@ -1,0 +1,18 @@
+
+
+{
+  "history": { "message": "Verlauf" },
+  "purge": { "message": "Zurücksetzen" },
+  "counterview": { "message": "Gegenansicht" },
+  "find_placeholder": { "message": "Auf dieser Seite suchen (v0)..." },
+  "hotkey_hint": { "message": "Tastenkürzel: Ctrl+Shift+F zum Umschalten. (Ctrl+F später abfangen.)" },
+  "purge_confirm": { "message": "TagPivot-Daten lokal zurücksetzen? Dies kann nicht rückgängig gemacht werden." },
+  "not_enough_data": { "message": "Noch nicht genügend lokale Daten." },
+  "loading": { "message": "Lädt…" },
+  "history_unavailable": { "message": "Verlauf nicht verfügbar." },
+  "no_local_events_yet": { "message": "Noch keine lokalen Ereignisse." },
+  "not_enough_structure_yet": { "message": "Noch nicht genügend Struktur." },
+  "history_no_tags": { "message": "Keine Tags" },
+  "counterpoint": { "message": "Gegenpol" },
+  "bridges": { "message": "Verbindungen" }
+}

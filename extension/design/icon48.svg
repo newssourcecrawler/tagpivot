@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+  <!-- Connectors -->
+  <path d="M24 24 Q19 19 14 14"
+        fill="none"
+        stroke="#1F2937"
+        stroke-width="3"
+        stroke-linecap="round"/>
+
+  <path d="M24 24 Q29 19 34 14"
+        fill="none"
+        stroke="#1F2937"
+        stroke-width="3"
+        stroke-linecap="round"/>
+
+  <path d="M24 24 Q28 31 30 36"
+        fill="none"
+        stroke="#1F2937"
+        stroke-width="3"
+        stroke-linecap="round"/>
+
+  <!-- Satellites -->
+  <circle cx="14" cy="14" r="5" fill="#D97706"/>
+  <circle cx="34" cy="14" r="5" fill="#C2410C"/>
+  <circle cx="30" cy="36" r="5" fill="#FDBA74"/>
+
+  <!-- Pivot Halo -->
+  <circle cx="24" cy="24" r="10"
+          fill="none"
+          stroke="#B45309"
+          stroke-width="3"/>
+
+  <!-- Pivot -->
+  <circle cx="24" cy="24" r="7" fill="#F97316"/>
+</svg>

@@ -1,0 +1,16 @@
+{
+  "history": { "message": "History" },
+  "purge": { "message": "Reset" },
+  "counterview": { "message": "Counter View" },
+  "find_placeholder": { "message": "Search this page (v0)..." },
+  "hotkey_hint": { "message": "Hotkey: Ctrl+Shift+F to toggle. (Ctrl+F interception later.)" },
+  "purge_confirm": { "message": "Reset TagPivot local data? This can’t be undone." },
+  "not_enough_data": { "message": "Not enough local data yet." },
+  "loading": { "message": "Loading…" },
+  "history_unavailable": { "message": "History unavailable." },
+  "no_local_events_yet": { "message": "No local events yet." },
+  "not_enough_structure_yet": { "message": "Not enough structure yet." },
+  "history_no_tags": { "message": "No tags" },
+  "counterpoint": { "message": "Counterpoint" },
+  "bridges": { "message": "Bridges" }
+}

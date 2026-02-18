@@ -1,0 +1,16 @@
+{
+  "history": { "message": "Histórico" },
+  "purge": { "message": "Limpar" },
+  "counterview": { "message": "Contravisão" },
+  "find_placeholder": { "message": "Buscar na página (v0)..." },
+  "hotkey_hint": { "message": "Atalho: Ctrl+Shift+F para alternar. (Interceptar Ctrl+F depois.)" },
+  "purge_confirm": { "message": "Limpar os dados locais do TagPivot? Isso não pode ser desfeito." },
+  "not_enough_data": { "message": "Ainda não há dados locais suficientes." },
+  "loading": { "message": "Carregando…" },
+  "history_unavailable": { "message": "Histórico indisponível." },
+  "no_local_events_yet": { "message": "Ainda não há eventos locais." },
+  "not_enough_structure_yet": { "message": "Ainda não há estrutura suficiente." },
+  "history_no_tags": { "message": "Sem tags" },
+  "counterpoint": { "message": "Contraponto" },
+  "bridges": { "message": "Conexões" }
+}

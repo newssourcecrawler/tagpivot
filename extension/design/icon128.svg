@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128">
+
+  <!-- Oblong connectors (unchanged) -->
+  <path d="M64 64 Q48 52 36 32"
+        fill="none" stroke="#1F2937" stroke-width="8" stroke-linecap="round"/>
+
+  <path d="M64 64 Q98 54 104 44"
+        fill="none" stroke="#1F2937" stroke-width="8" stroke-linecap="round"/>
+
+  <path d="M64 64 Q94 82 92 92"
+        fill="none" stroke="#1F2937" stroke-width="8" stroke-linecap="round"/>
+
+  <!-- Satellites (nudged for balance) -->
+  <!-- top-left point (moved down slightly) -->
+  <circle cx="30" cy="32" r="12" fill="#D97706"/>
+
+  <!-- top-right (moved down slightly) -->
+  <circle cx="104" cy="48" r="12" fill="#C2410C"/>
+
+  <!-- lower-right bridge (moved up slightly) -->
+  <circle cx="100" cy="96" r="12" fill="#FDBA74"/>
+
+  <!-- Pivot halo -->
+  <circle cx="64" cy="64" r="28"
+          fill="none"
+          stroke="#B45309"
+          stroke-width="8"/>
+
+  <!-- Pivot -->
+  <circle cx="64" cy="64" r="20" fill="#F97316"/>
+
+</svg>

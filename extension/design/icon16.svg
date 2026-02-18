@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
+  <defs>
+    <clipPath id="clip">
+      <circle cx="8" cy="8" r="7"/>
+    </clipPath>
+  </defs>
+
+  <!-- middle tone base -->
+  <circle cx="8" cy="8" r="7" fill="#F97316"/>
+
+  <g clip-path="url(#clip)">
+    <!-- left band (darker, intrudes more to reduce perceived middle width) -->
+    <path d="M0 0
+             C7 2, 7 14, 0 16
+             L0 0 Z"
+          fill="#C2410C"/>
+
+    <!-- right band (lighter, symmetric) -->
+    <path d="M16 0
+             C9 2, 9 14, 16 16
+             L16 0 Z"
+          fill="#FDBA74"/>
+  </g>
+</svg>

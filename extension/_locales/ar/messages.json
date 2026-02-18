@@ -1,0 +1,18 @@
+
+
+{
+  "history": { "message": "السجل" },
+  "purge": { "message": "إعادة ضبط" },
+  "counterview": { "message": "عرض معاكس" },
+  "find_placeholder": { "message": "ابحث في هذه الصفحة (v0)..." },
+  "hotkey_hint": { "message": "اختصار: Ctrl+Shift+F للتبديل. (اعتراض Ctrl+F لاحقًا.)" },
+  "purge_confirm": { "message": "هل تريد إعادة ضبط بيانات TagPivot المحلية؟ لا يمكن التراجع عن هذا الإجراء." },
+  "not_enough_data": { "message": "لا توجد بيانات محلية كافية بعد." },
+  "loading": { "message": "جارٍ التحميل…" },
+  "history_unavailable": { "message": "السجل غير متاح." },
+  "no_local_events_yet": { "message": "لا توجد أحداث محلية بعد." },
+  "not_enough_structure_yet": { "message": "لا توجد بنية كافية بعد." },
+  "history_no_tags": { "message": "لا توجد وسوم" },
+  "counterpoint": { "message": "نقطة مقابلة" },
+  "bridges": { "message": "روابط" }
+}

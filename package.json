@@ -1,0 +1,20 @@
+{
+  "name": "nsc_tagpivot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "clean": "rm -rf extension/dist",
+    "build": "node tools/build.mjs"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "@types/chrome": "^0.1.36",
+    "esbuild": "^0.27.3",
+    "tldts": "^7.0.23",
+    "typescript": "^5.9.3"
+  }
+}
