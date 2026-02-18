@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="extension/icons/icon128.png" width="96" height="96" alt="TagPivot icon" />
+</p>
+
 **TagPivot**
 
 TagPivot is a lightweight Chrome overlay that helps you see what you’ve been focusing on lately.
