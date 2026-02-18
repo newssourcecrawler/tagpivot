@@ -1,4 +1,4 @@
-#TagPivot
+TagPivot
 
 TagPivot is a lightweight Chrome overlay that helps you see what you’ve been focusing on lately.
 
@@ -7,7 +7,7 @@ No accounts. No cloud. No syncing. No tracking.
 
 ⸻
 
-#What it does
+What it does
 
 When you open TagPivot on a page, it:
 	•	Extracts meaningful tags from the page title and headings
@@ -20,7 +20,7 @@ It’s designed to help you notice patterns in how you use the web.
 
 ⸻
 
-#How to use
+How to use
 	•	Open the overlay: Ctrl + Shift + F
 	•	Close it: Esc
 	•	Click a tag to search it in a new tab
@@ -30,9 +30,9 @@ That’s it.
 
 ⸻
 
-#Privacy
+Privacy
 
-#TagPivot is local-only.
+TagPivot is local-only.
 	•	Your browsing data stays in your browser.
 	•	Nothing is sent to any server.
 	•	No login system.
@@ -44,7 +44,7 @@ If you want to clear it, use Reset.
 
 ⸻
 
-#What it is not
+What it is not
 	•	Not a tracking tool
 	•	Not a spying tool
 	•	Not AI surveillance
@@ -56,7 +56,7 @@ It only reflects what you’ve recently visited.
 
 ⸻
 
-#Why it exists
+Why it exists
 
 The web is noisy.
 
@@ -66,7 +66,7 @@ It’s meant to support focus and awareness, not replace search or browsing.
 
 ⸻
 
-#License
+License
 
 MIT License
 
